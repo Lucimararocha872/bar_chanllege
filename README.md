@@ -85,9 +85,9 @@ Valor a pagar = R$ 62.00
 
 O programa foi desenvolvido criando a classe **"Conta"** para com seus respectivosa atributos e métodos necessários para que quando instanciados em seu no programa principal auxiliem no cálculo do relatório: 
 
+![Bill_class](https://github.com/Lucimararocha872/bar_chanllege/assets/96544129/754029b1-6401-49a6-9a4a-10058c67e782)
 
-![Bill_Class](![Bill_class](https://github.com/Lucimararocha872/bar_chanllege/assets/96544129/021967a8-31ae-4675-9574-2590138a7660)
-)
+
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
